@@ -1,0 +1,4 @@
+langgraph>=0.2.0
+python-dotenv>=1.0.0
+# Optional live web search provider. The graph uses an offline fallback when absent.
+tavily-python>=0.5.0
